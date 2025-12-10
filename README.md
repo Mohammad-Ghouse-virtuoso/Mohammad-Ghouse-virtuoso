@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✏️ Me:
 I am Mohammad Ghouse, a software developer focused on building reliable and user-friendly web applications and automation tools. I enjoy solving problems with clean code and collaborating on open source.
 
 
